@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    background: url(buttons-images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    font-family: "Sora", sans-serif;
+
+}
+
+.container .header {
+    margin: 20px;
+    font-size: 8px;
+}
+
+.container .header .username {
+    font-size: 3em;
+
+}
+
+.container .header .profile-picture {
+    width: 150px;
+    margin: 10px;
+}
+
+.container .sub-title {
+    font-size: 20px;
+    color: #919193;
+}
+
+.container .list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
