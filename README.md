@@ -1,1 +1,6 @@
-# social-media-links-page
+## 💡 Link for Instagram bio
+### This is a links page to be used in the Instagram "BIO"! 📱💡
+### I used the following tools in this project: 🔧🎓
+✅ HTML5; 
+✅ CSS3; 
+✅ FlexBox(css);
